@@ -248,6 +248,9 @@
   "opencode-windows-x64-baseline": {
     "version": "*"
   },
+  "phaser": {
+    "version": "*"
+  },
   "plotly.js": {
     "version": "*"
   },
